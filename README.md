@@ -1,4 +1,4 @@
-<h1 align="center">Sergey Timoshin — Junior QA Engineer</h1>
+<h1 align="center">Sergey Timoshin — QA Engineer</h1>
 
 <p align="center">
   <a href="https://t.me/AlSerTim">
@@ -7,7 +7,7 @@
 </p>
 
 ## Кратко обо мне
-Junior-QA со знанием ручного и базового автоматизированного тестирования. Проектирую тест-кейсы, оформляю баг-репорты, пишу UI-тесты на Python + Selenium и проверяю REST-API в Postman. Изучаю нагрузочное тестирование и CI/CD.
+QA тестировщик со знанием ручного и базового автоматизированного тестирования. Проектирую тест-кейсы, оформляю баг-репорты, пишу UI-тесты на Python + Selenium и проверяю REST-API в Postman. Изучаю нагрузочное тестирование и CI/CD.
 
 ## Тех-стек
 
